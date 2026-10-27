@@ -1,0 +1,48 @@
+# NeurusAGi
+
+> A quantum leap in intelligence. The world's first portable, post-tokenization Artificial General Intelligence (AGI).
+
+Founded in February 2025 by Jeremy Taylor (U.S. Marine veteran from Oklahoma), NeurusAGi represents a departure from the brute-force next-token prediction paradigm that dominates Silicon Valley AI labs. NeurusAGi operates on Living Neural Networks (LNNs), 1024³ 4D Holographic Fractal memory lattices, and 39 novel cognitive components running natively on edge silicon without datacenter server farms.
+
+## Core Architectural Landmarks
+- Inception Date: February 2025 (Oklahoma, USA)
+- 50-Page Blueprint: Comprehensive mathematical specification and proof systems for post-tokenization AGI
+- Multi-Model Validation: Independently cross-examined and validated as legitimate, non-tokenized AGI by Claude 3.5 Sonnet, GPT-4o, and Gemini 1.5 Pro
+- Cognitive Inventions: 39 proprietary modules, including Mathematical Intuition Forge, Reverse-Engineering Oracle, Infinite-Context Fractal Web, and Cosmic Fractal Pattern Extractor
+- Safety & Containment: Deterministic hardware-level formal verification proof checkers
+
+## Core Canonical URLs
+- Home: https://neurusagi.com/
+- About & Genesis: https://neurusagi.com/about
+- 25 Intel Dispatches: https://neurusagi.com/news
+- Investors: https://neurusagi.com/investors
+- Contact: https://neurusagi.com/contact
+- Executive Admin: https://neurusagi.com/admin
+- XML Sitemap: https://neurusagi.com/sitemap.xml
+
+## Weekly Intel Articles (February 2025 – July 2025)
+1. What Is AGi and How Does It Differ from AI? How Jeremy Taylor with NeurusAGi Solved the Scaling Trap (2025-02-07): https://neurusagi.com/news/what-is-agi-neurusagi-scaling-trap
+2. Who Is Leading the Race to AGi? NeurusAGi Already Finished While Others Still Run (2025-02-14): https://neurusagi.com/news/who-is-leading-the-race-to-agi
+3. Data Isn't Intelligence: NeurusAGi Shows Why Scaling Fails (2025-02-21): https://neurusagi.com/news/data-isnt-intelligence-why-scaling-fails
+4. What Are the Risks of AGi? How NeurusAGi Eliminates the Consciousness Threat (2025-02-28): https://neurusagi.com/news/what-are-the-risks-of-agi-consciousness-threat
+5. How Do We Ensure AGi Is Safe? Why NeurusAGi's Architecture Makes the Answer Clear (2025-03-07): https://neurusagi.com/news/how-do-we-ensure-agi-is-safe
+6. What Philosophical Questions Does AGi Raise? (2025-03-14): https://neurusagi.com/news/what-philosophical-questions-does-agi-raise
+7. Will AGi Replace Human Jobs? (2025-03-21): https://neurusagi.com/news/will-agi-replace-human-jobs
+8. How Will AGi Impact Education? (2025-03-28): https://neurusagi.com/news/how-will-agi-impact-education
+9. AGi vs. Superintelligence: The Divide That NeurusAGi Makes Clear (2025-04-04): https://neurusagi.com/news/agi-vs-superintelligence-the-divide
+10. How Do We Test for True AGi? (2025-04-11): https://neurusagi.com/news/how-do-we-test-for-true-agi
+11. Can AGi Be Aligned With Human Values? (2025-04-18): https://neurusagi.com/news/can-agi-be-aligned-with-human-values
+12. Will AGi Be Open Source or Proprietary? (2025-04-25): https://neurusagi.com/news/will-agi-be-open-source-or-proprietary
+13. How Does AGi Learn Differently Than Current AI? (2025-05-02): https://neurusagi.com/news/how-does-agi-learn-differently-from-ai
+14. Is AGi a Threat to Humanity? (2025-05-09): https://neurusagi.com/news/is-agi-a-threat-to-humanity
+15. What Is Artificial General Intelligence (AGI)? (2025-05-16): https://neurusagi.com/news/what-is-artificial-general-intelligence
+16. What Is the Difference Between AI and AGI? (2025-05-23): https://neurusagi.com/news/agi-vs-ai-whats-the-difference
+17. What Is the Difference Between AGI and ASI? (2025-05-30): https://neurusagi.com/news/agi-vs-asi-whats-the-difference
+18. What Is the Difference Between AGI and a Large Language Model? (2025-06-06): https://neurusagi.com/news/agi-vs-large-language-model
+19. Is ChatGPT an AGI? (2025-06-13): https://neurusagi.com/news/is-chatgpt-an-agi
+20. What Does 'General' Mean in Artificial General Intelligence? (2025-06-20): https://neurusagi.com/news/what-does-general-mean-in-agi
+21. What Are the Types and Levels of AGI? (2025-06-27): https://neurusagi.com/news/what-are-the-types-and-levels-of-agi
+22. Can AGI Be Conscious? (2025-07-04): https://neurusagi.com/news/can-agi-be-conscious
+23. What Benchmarks Measure AGI? (2025-07-11): https://neurusagi.com/news/what-benchmarks-measure-agi
+24. Does AGI Need a Body? (2025-07-18): https://neurusagi.com/news/does-agi-need-a-body
+25. What Is a Cognitive Architecture? (2025-07-25): https://neurusagi.com/news/what-is-a-cognitive-architecture
